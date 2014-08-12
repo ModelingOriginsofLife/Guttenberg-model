@@ -10,9 +10,4 @@ graphactivity.py
 
 To do:
 
-1.  reorganize so that instead of starting evolutionary program separately from graphactivity.py, the evolutionary program is passed to graphactivity.py on the command line, and lauched by that script.  
-
-2.  eliminate flat line clutter
-
-3.  add graph windows for  total activity vs. time and new activity vs. time.
-
+1.  shift to writing activity data to stdout (coordinate with new version of graphactivity.py)
